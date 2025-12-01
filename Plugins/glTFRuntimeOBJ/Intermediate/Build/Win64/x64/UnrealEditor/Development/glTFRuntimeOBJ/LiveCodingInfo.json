@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.glTFRuntimeOBJ.cpp.obj": [
+			"glTFRuntimeOBJ.init.gen.cpp.obj",
+			"glTFRuntimeOBJAssetActor.gen.cpp.obj",
+			"glTFRuntimeOBJAssetActorAsync.gen.cpp.obj",
+			"glTFRuntimeOBJFunctionLibrary.gen.cpp.obj",
+			"glTFRuntimeOBJ.cpp.obj",
+			"glTFRuntimeOBJAssetActor.cpp.obj",
+			"glTFRuntimeOBJAssetActorAsync.cpp.obj",
+			"glTFRuntimeOBJFunctionLibrary.cpp.obj"
+		]
+	}
+}
